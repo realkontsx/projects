@@ -1,7 +1,7 @@
 {
   "versionInfo": {
     "version": "1.1",
-    "login": false
+    "login": true
   },
   "clientSettings": {
     "title": "Rose Client 1.8.9",
